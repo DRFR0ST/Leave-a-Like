@@ -1,7 +1,7 @@
 # Leave-a-Like
 Make sure you leave-a-like! Simple extension for those who forget to leave likes under watched videos. No more forgetting!
 
-![logo](logo.png)
+![logo](logo_128x.png)
 
 
 <h3><u>How to install?</u></h3>
